@@ -8,7 +8,7 @@ I am a Data Analyst with over 10 years of experience in IT. My expertise include
 
 * 🌍  I'm based in Dominican Republic
 * 🖥️  See my portfolio at [GitHub](http://reipared.github.io/Portfolio/)
-* ✉️  You can contact me at [reinaldopsuazo@proton.me](mailto:reinaldopsuazo@proton.me)
+* ✉️  You can contact me at [Email](mailto:reinaldopsuazo@proton.me)
 * 🧠  I'm learning R language
 
 ### Skills
