@@ -24,8 +24,4 @@ I am a Data Analyst with over 10 years of experience in IT. My expertise include
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/thereiwall"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
+<p><a href="https://www.ko-fi.com/thereiwall"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></p>
