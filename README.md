@@ -29,6 +29,6 @@ I am a Data Analyst with over 10 years of experience in IT. My expertise include
 
 📊 [**Portfolio**](https://reipared.github.io/Portfolio/)
 
-### Support Me
+### Support
 
 <p><a href="https://www.ko-fi.com/thereiwall"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></p>
