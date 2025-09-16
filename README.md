@@ -1,13 +1,13 @@
 Hi 👋 My name is Reinaldo Pared
 ===============================
 
-IT | Data Analyst | Digital Marketing
+Data Analyst | Digital Marketing | IT
 -------------------------------------
 
-I am a Data Analyst with over 10 years of experience in IT. My expertise includes working with tools like Tableau, Excel, Power BI, SQL, and Python for data analysis. I specialize in extracting insights from data to support decision-making, optimize processes, and drive business growth.
+I am a Data Analyst and Email Marketing Specialist with over 10 years of experience in IT. My expertise includes working with tools like Tableau, Excel, Power BI, SQL, and Python for data analysis. I specialize in extracting insights from data to support decision-making, optimize processes, and drive business growth.
 
 * 🌍  I'm based in Dominican Republic
-* 🖥️  See my portfolio at [GitHub](http://reipared.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Portfolio](http://reipared.github.io/Portfolio/)
 * ✉️  You can contact me via [Email](mailto:reinaldopsuazo@proton.me)
 * 🧠  I'm learning R language
 
